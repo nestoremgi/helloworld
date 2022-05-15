@@ -1,2 +1,2 @@
 # helloworld
-this is just Git Hello World!
+This is just a Git Hello World!
